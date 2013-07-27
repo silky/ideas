@@ -1,7 +1,7 @@
 (in the spirit of
  [https://github.com/samsquire/ideas](https://github.com/samsquire/ideas).)
 
-various ideas and programming projects
+various ideas and projects
 ==
 
 these are ideas i'd like to work on, or just things i'd like to see done. if
@@ -35,5 +35,20 @@ fork and update and issue a pull request!
 
     implement Judea Pearls *do*-calculus in networkx.
 
+  1. **mathematical property browser**
+
+    suppose you have some object; you'd like to find out what you can do with
+    it. for example, you might have a 'simple function'. then it could be
+    measureable, say, in the context of measure theory, and so on.
+
+    can generalise to finding various theorems (and lemmas, etc) that could be
+    used in certain scenarios. should be easy to use; not at the level of
+    proof assistants.
+
+  1. **ambient sound interpreter**
+
+    takes input from the local radio waves, converts them into sound via some
+    pattern matching radom strategy. it should be possible to modify, based on
+    mood, but it should also sound sufficiently unique as to be interesting.
 
 # complete
