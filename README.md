@@ -54,7 +54,6 @@ fork and update and issue a pull request!
   1. **stay up to date with specific authors**
 
     There are a couple of things to do this already.
-
     * [scirate](http://www.scirate.com/)
     * [google scholar alerts](http://scholar.google.com.au/)
 
