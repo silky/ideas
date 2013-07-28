@@ -123,3 +123,15 @@ fork and update and issue a pull request!
     of lifes problems).
 
 # complete
+
+  1. **laptop whiteboard**
+
+    a whiteboard attached to your laptop.
+
+    ![laptopwhiteboard1](resources/laptop-whiteboard1.jpg)
+    ![laptopwhiteboard2](resources/laptop-whiteboard2.jpg)
+
+    you require only melamine, or some similar material, and velcro dots.
+    pictured is some transparency paper stuck on a piece of carboard. i've
+    found the melamine purchased from a shop tends to not clean as nicely as
+    the whiteboards you find at universities; i'm not sure why.
