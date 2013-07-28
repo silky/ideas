@@ -53,10 +53,10 @@ fork and update and issue a pull request!
 
   1. **stay up to date with specific authors**
 
-    there are a couple of things to do this already.
+    There are a couple of things to do this already.
 
-      * [scirate](http://www.scirate.com/)
-      * [google scholar alerts](http://scholar.google.com.au/)
+    * [scirate](http://www.scirate.com/)
+    * [google scholar alerts](http://scholar.google.com.au/)
 
     I also wrote [arxiv-checker](http://arxiv-checker.herokuapp.com/). I'm not
     sure if any of these is perfect, though. arxiv-checker is limited in only
