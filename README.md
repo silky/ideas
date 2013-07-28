@@ -72,4 +72,54 @@ fork and update and issue a pull request!
 
     there appear to be a few things like this, but are gui-based.
 
+  1. **note from self**
+
+    a thing which reads your comments for 'note to self' and then randomly
+    tells you about these things.
+
+    by 'comments' i mean any comment anywhere. for example, this app could
+    exist as a skype bot, that joins in on your skype conversations; or
+    alternatively it might go through all your source code, or wherever you
+    write these things.
+
+    i think it might be best if it responds back in a few ways; i was thinking
+    that it could randomly send a message to your terminal, or again with the
+    skype thing, it could randomly send you a message.
+
+  1. **lift reading/writing**
+
+    all lifts could contain fixed whiteboard markers; then you could write on
+    them if you wanted.
+
+  1. **creative idea generator**
+
+    it should be possible to have a program that generates creative ideas on a
+    given topic. as a first pass it should be able to generate other
+    'random-combination' based ideas that i've thought of; much like the 'lift
+    reading/writing' above.
+
+  1. **programmers keyboard**
+
+    there are many ideas like this, but i'm not sure which one i like best. a
+    custom key layout? an actual physical keyboard? a supplemental keyboard to
+    the typical one? a modal keyboard?
+
+    one idea is to add a new row of keys. This new row would feature specific
+    keys for characters such as: ! ? * < > ( ) { } . " : + & | .
+
+    This list could possible be configured for different languages, as some
+    wouldn't require those characters, and may want different ones (for
+    example Python, or some form of assembly).
+
+    But at least it may save us from constantly pressing shift, and it may be
+    interesting to see if it can lead to other possible benefits; i.e. what
+    other buttons could be implemented and considered. It may be interesting
+    to consider a 'build' button, or attach some macros to 'programmable'
+    buttons. It is already known that [programmable](http://www.artlebedev.com/everything/optimus/) 
+    keyboards exist, so maybe they are the answer; but they are very
+    expensive.
+
+    maybe this can all be solved by vim configurations, though (as with many
+    of lifes problems).
+
 # complete
