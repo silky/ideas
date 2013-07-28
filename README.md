@@ -64,5 +64,12 @@ fork and update and issue a pull request!
     get sent alerts when the author didn't actually publish the paper), and 
     scirate requires you see the paper pop up.
 
+  1. **git console dashboard**
+
+    at a glance i'd like to see the status of all my repos; the
+    outgoing/incoming changes from various upstream sources, etc; then i could
+    issue system-wide updates and so on.
+
+    there appear to be a few things like this, but are gui-based.
 
 # complete
