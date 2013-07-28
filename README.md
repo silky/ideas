@@ -132,6 +132,7 @@ fork and update and issue a pull request!
     ![laptopwhiteboard2](resources/laptop-whiteboard2.jpg)
 
     you require only melamine, or some similar material, and velcro dots.
-    pictured is some transparency paper stuck on a piece of carboard. i've
-    found the melamine purchased from a shop tends to not clean as nicely as
-    the whiteboards you find at universities; i'm not sure why.
+    pictured is some transparency paper stuck on a piece of corregated
+    plastic. i've found the melamine purchased from a shop tends to not clean
+    as nicely as the whiteboards you find at universities; i'm not sure why.
+    recommend using these with the thin-tipped whiteboard markers.
