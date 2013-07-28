@@ -31,7 +31,7 @@ fork and update and issue a pull request!
     a place where you can go and sit and program or do art or whatever. like a
     library. would be a large open space.
 
-  1. **do-calculus in networkx**
+  1. ***do*-calculus in networkx**
 
     implement Judea Pearls *do*-calculus in networkx.
 
@@ -50,5 +50,20 @@ fork and update and issue a pull request!
     takes input from the local radio waves, converts them into sound via some
     pattern matching radom strategy. it should be possible to modify, based on
     mood, but it should also sound sufficiently unique as to be interesting.
+
+  1. **stay up to date with specific authors**
+
+    there are a couple of things to do this already.
+
+      * [scirate](http://www.scirate.com/)
+      * [google scholar alerts](http://scholar.google.com.au/)
+
+    I also wrote [arxiv-checker](http://arxiv-checker.herokuapp.com/). I'm not
+    sure if any of these is perfect, though. arxiv-checker is limited in only
+    checking arxiv, and also in the number of people and at the moment only
+    does a month back in time. google scholar occasionally gets it wrong (i
+    get sent alerts when the author didn't actually publish the paper), and 
+    scirate requires you see the paper pop up.
+
 
 # complete
