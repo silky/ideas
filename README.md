@@ -122,6 +122,10 @@ fork and update and issue a pull request!
     maybe this can all be solved by vim configurations, though (as with many
     of lifes problems).
 
+  1. **programming gallery**
+
+    like an art gallery; but would have particularly nice code examples in it.
+
 # complete
 
   1. **laptop whiteboard**
