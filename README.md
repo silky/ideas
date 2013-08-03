@@ -122,6 +122,38 @@ fork and update and issue a pull request!
     maybe this can all be solved by vim configurations, though (as with many
     of lifes problems).
 
+  1. **what-now**
+
+    looks at your timetable, and tells you what you should be doing now. will
+    need to configure a timetable in some trivial json format.
+
+
+  1. **invalid premise detector**
+
+    imagine if it were possible to look at natural language statements and
+    determine an incorrect premise, and have it pointed out. currently it's
+    not feasible least-of-all because it isn't possible to programmatically
+    review all statements.
+
+    but suppose it were (whether or not this is a good idea, it's becoming
+    more feasible), then it would be possible to consider the existence of
+    such a program.
+
+    it would look at each statement, and decide whether or not it is
+    justified. for example:
+
+    s1: "it doesn't hurt to let people know about standard libraries when
+    something new comes along"
+
+    could be analysed as invalid, because perhaps it _is_ bad, if say the
+    standard libraries are bad, or similar. i.e. the above statement is only
+    valid with certain assumptions.
+
+    perhaps alternatively this project could be something like 'assumptions
+    identifier'; and for each statement it is able to work out the assumptions
+    under which it is valid.
+
+
 # complete
 
   1. **laptop whiteboard**
