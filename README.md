@@ -142,16 +142,20 @@ fork and update and issue a pull request!
     it would look at each statement, and decide whether or not it is
     justified. for example:
 
-    s1: "it doesn't hurt to let people know about standard libraries when
+    s1: "it doesn't hurt to let people know about standard thing when
     something new comes along"
 
     could be analysed as invalid, because perhaps it _is_ bad, if say the
-    standard libraries are bad, or similar. i.e. the above statement is only
+    standard things are bad, or similar. i.e. the above statement is only
     valid with certain assumptions.
 
     perhaps alternatively this project could be something like 'assumptions
     identifier'; and for each statement it is able to work out the assumptions
     under which it is valid.
+
+  1. **programming gallery**
+
+    like an art gallery; but would have particularly nice code examples in it.
 
 
 # complete
