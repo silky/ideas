@@ -45,6 +45,11 @@ fork and update and issue a pull request!
     used in certain scenarios. should be easy to use; not at the level of
     proof assistants.
 
+    things like this:
+    - [http://slugmath.ucsc.edu/mediawiki/index.php/Main_Page](http://slugmath.ucsc.edu/mediawiki/index.php/Main_Page)
+    - [http://www.dougengelbart.org/about/dke.html](http://www.dougengelbart.org/about/dke.html)
+    - [http://us.metamath.org/mpegif/mmset.html](http://us.metamath.org/mpegif/mmset.html)
+
   1. **ambient sound interpreter**
 
     takes input from the local radio waves, converts them into sound via some
