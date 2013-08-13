@@ -158,6 +158,19 @@ fork and update and issue a pull request!
     like an art gallery; but would have particularly nice code examples in it.
 
 
+  1. **agree-o-tron**
+
+    plugin for skype calls, or similar, that instead of videos just captures
+    "agreement", and indicates as much with a pointer. it determines agreement
+    by processing video, locally, and then sending only what it infers as
+    nodding or disagreeing over the server.
+
+    would need to be a program that runs independently, perhaps, of skype on
+    the local machine. then sets itself up as a server for the video stream
+    that it is watching; then other people could browse that to get a general
+    idea of the "agreement" in that room.
+
+
 # complete
 
   1. **laptop whiteboard**
