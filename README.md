@@ -176,6 +176,16 @@ fork and update and issue a pull request!
     idea of the "agreement" in that room.
 
 
+  1. **meeting/discussion emulator**
+     
+    a system into which you could place people, and list their standard opinions and
+    responses, and then model how they will interact with another group of people. it
+    could be used to emulate meetings. supposing it emulates meetings well, it could
+    then be used to randomly replace meetings in a given company, thus allowing more
+    time for whatever people normally do.
+
+
+
 # complete
 
   1. **laptop whiteboard**
