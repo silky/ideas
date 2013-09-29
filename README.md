@@ -185,6 +185,11 @@ fork and update and issue a pull request!
     time for whatever people normally do.
 
 
+  1. **australian budget tracker**
+
+    somehow find out how the tax money is spent in australia, and do some sort
+    of modelling on it.
+
 
 # complete
 
