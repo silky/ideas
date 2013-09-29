@@ -191,6 +191,13 @@ fork and update and issue a pull request!
     of modelling on it.
 
 
+  1. **encryptoboard**
+
+    a USB device that sits inbetween the keyboard and the computer that outputs
+    everything pressed on the keyboard passed through some encryption function. Could
+    be a OTP, or something where there are keys involved.
+
+
 # complete
 
   1. **laptop whiteboard**
