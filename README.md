@@ -127,11 +127,6 @@ fork and update and issue a pull request!
     maybe this can all be solved by vim configurations, though (as with many
     of lifes problems).
 
-  1. **what-now**
-
-    looks at your timetable, and tells you what you should be doing now. will
-    need to configure a timetable in some trivial json format.
-
 
   1. **invalid premise detector**
 
@@ -183,19 +178,41 @@ fork and update and issue a pull request!
     could be used to emulate meetings. supposing it emulates meetings well, it could
     then be used to randomly replace meetings in a given company, thus allowing more
     time for whatever people normally do.
-
-
-  1. **australian budget tracker**
-
-    somehow find out how the tax money is spent in australia, and do some sort
-    of modelling on it.
-
+        
 
   1. **encryptoboard**
 
     a USB device that sits inbetween the keyboard and the computer that outputs
     everything pressed on the keyboard passed through some encryption function. Could
     be a OTP, or something where there are keys involved.
+
+
+  1. **futuristic restaurant**
+
+    futuristic-themed restaurant, instead of a classic one.
+
+
+  1. **author hash function**
+
+    calculate a useful hash function that can be queried for closeness when
+    related authors publish stuff together. If it funtions like f(A+B) =
+    f(B+A) then first-authorship no-longer matters.
+
+    a suggestion is a hash function on a metric space that is also a metric.
+    then the idea is to look at the p-adic's and some homomorphism.
+
+
+  1. **LaTeX typo finder**
+
+    try and find mistakes and whatnot in LaTeX documents by showing only one
+    paragraph or sentence at a time. could work with the idea of trying to
+    find definitions for all terms, etc.
+  
+
+  1. **encouragement bot**
+
+    every time you press enter in your terminal there could be a small chance
+    that encouragement bot would say something encouraging.
 
 
 # complete
@@ -212,3 +229,22 @@ fork and update and issue a pull request!
     plastic. i've found the melamine purchased from a shop tends to not clean
     as nicely as the whiteboards you find at universities; i'm not sure why.
     recommend using these with the thin-tipped whiteboard markers.
+
+
+  1. **australian budget tracker**
+
+    somehow find out how the tax money is spent in australia, and do some sort
+    of modelling on it.
+
+    basically exists, but probably needs a bit more work:
+    - [http://infoaus.net/budget/budget_home.php](http://infoaus.net/budget/budget_home.php)
+
+
+  1. **what-now**
+
+    looks at your timetable, and tells you what you should be doing now. will
+    need to configure a timetable in some trivial json format.
+
+    basically exists:
+    - [http://taskwarrior.org](http://taskwarrior.org)
+
