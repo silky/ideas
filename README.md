@@ -215,6 +215,11 @@ fork and update and issue a pull request!
     that encouragement bot would say something encouraging.
 
 
+  1. **some machine learning thing for paper discovery in scirate**
+
+    maybe drafatable are already doing this? if not, consider it.
+
+
 # complete
 
   1. **laptop whiteboard**
@@ -248,3 +253,4 @@ fork and update and issue a pull request!
     basically exists:
     - [http://taskwarrior.org](http://taskwarrior.org)
 
+    (that is, I now use taskwarrior for this purpose.)
