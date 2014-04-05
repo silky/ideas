@@ -220,6 +220,27 @@ fork and update and issue a pull request!
     maybe drafatable are already doing this? if not, consider it.
 
 
+  1. **a computer proof system that explains WHY things are true**
+
+    in a human-readable way.
+
+
+  1. **interactive thesis**
+
+    write it in a mathematica notebook or an IPython thing; then I can read
+    and interact wtih it. I might do this for part of Belovs thesis, say.
+
+    this, of course, could also be applied to 'interactive papers' at large.
+    maybe just as a supplement to any actual paper.
+
+  1. **console chat**
+
+    have a box on a personal website where it says if you're online or not
+    (where "online" means "recently used the linux terminal on some
+     computer"). if so, people can type a short message to you, which appears
+    as say a notify-send. you can then respond to them.)
+
+
 # complete
 
   1. **laptop whiteboard**
@@ -254,3 +275,17 @@ fork and update and issue a pull request!
     - [http://taskwarrior.org](http://taskwarrior.org)
 
     (that is, I now use taskwarrior for this purpose.)
+
+
+  1. **this file upsets me**
+
+    you can upload the sha256 hash of a file, and then the system counts that
+    file as upsetting n+1 people. list the topmost upsetting file hashes.
+    never reveal the actual file contents.
+
+    might change this to be 'how i feel about this file', and you can love it,
+    or have it upset you.
+
+    done:
+    - [http://this-file-me.meteor.com](http://this-file-me.meteor.com)
+
