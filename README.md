@@ -241,6 +241,29 @@ fork and update and issue a pull request!
     as say a notify-send. you can then respond to them.)
 
 
+  1. **a nice local bibtex browser/editor**
+
+    to say replace my current usage of JabRef with. what I'm missing is:
+        - ???
+
+
+  1. **show py.test unit test numbers next to output of tree**
+
+    would prefer to do this with appropriate usage of awk, but i don't know it
+    will enough to do that.
+
+
+  1. **a reusable printing system**
+
+    i want to be able to print pdfs and so on on paper. but i'd also like to
+    re-use that paper. naive idea: imagine if we could print in "pencil"
+    instead of ink. then i could just rub it out and print again. suppose this
+    erasing was handled by the printer though.
+
+    are there ideas like this out there? can i build this myself? review and
+    comment.
+
+
 # complete
 
   1. **laptop whiteboard**
