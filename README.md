@@ -270,6 +270,28 @@ fork and update and issue a pull request!
     way.
 
 
+  1. **post-quantum-cryptography in idris**
+
+    see [http://pqcrypto.org/](http://pqcrypto.org/).
+
+
+  1. **some sort of self-organised university thing**
+
+    where you could declare a set of subjects you will run, and layout some
+    course plan, and then teach yourself those things. the idea would be to
+    just have some structure and way of remembering what you should be doing,
+    and accountability.
+
+    for some reason it seems fun to perhaps use gitit for this.
+
+
+  1.  **calculate number of mistakes one can make**
+
+    none is bad. two is also a bit arbitrary. it's probably a function of the
+    'class' of mistake, and whether or not you claim to know how to not make
+    that mistake again, etc. try and calculate what this is.
+
+
 # complete
 
   1. **laptop whiteboard**
