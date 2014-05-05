@@ -292,6 +292,12 @@ fork and update and issue a pull request!
     that mistake again, etc. try and calculate what this is.
 
 
+  1. **a file-system rpg**
+
+    it should lay out a particular directory structure as a big rpg land that
+    you must explore. files that you want to delete become enemies.
+
+
 # complete
 
   1. **laptop whiteboard**
