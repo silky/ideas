@@ -298,6 +298,13 @@ fork and update and issue a pull request!
     you must explore. files that you want to delete become enemies.
 
 
+  1. **programming language heatmap**
+
+    a plugin for vim/emacs that tracks the time spent programming in particular
+    languages. could match this to physical location (gps?) and then generate
+    a heatmap that way. maybe some of this information is already on github.
+
+
 # complete
 
   1. **laptop whiteboard**
