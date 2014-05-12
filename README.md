@@ -305,6 +305,16 @@ fork and update and issue a pull request!
     a heatmap that way. maybe some of this information is already on github.
 
 
+  1. **a reasoning layer**
+
+    for programming languages. in reference to being able to deduce how
+    computers decided on a particular course of action. in python this could
+    be implemented with decorations on functions which categorise the
+    function, and then take this coarse-grained categorisations and map them
+    into functional sections somehow. i.e. group them in some meaningful way.
+    output as a graph or something.
+
+
 # complete
 
   1. **laptop whiteboard**
