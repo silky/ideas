@@ -315,6 +315,15 @@ fork and update and issue a pull request!
     output as a graph or something.
 
 
+  1. **rich hickey talk generator**
+
+    find words used in programming, define them, note disparity with common
+    usage, comment.
+
+    * [value of values](http://www.infoq.com/presentations/Value-Values)
+    * [simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy)
+
+
 # complete
 
   1. **laptop whiteboard**
