@@ -320,11 +320,11 @@ fork and update and issue a pull request!
     find words used in programming, define them, note disparity with common
     usage, comment.
 
-    * [value of values](http://www.infoq.com/presentations/Value-Values)
-    * [simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy)
+    - [value of values](http://www.infoq.com/presentations/Value-Values)
+    - [simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 
 
-  1. **a robot whose goal is to be happy and have fun**
+  1. ***a robot whose goal is to be happy and have fun**
 
     instead of doing something "useful" it could just aim to have the most fun
     possible.
