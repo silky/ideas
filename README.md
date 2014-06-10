@@ -324,6 +324,12 @@ fork and update and issue a pull request!
     * [simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 
 
+  1. **a robot whose goal is to be happy and have fun**
+
+    instead of doing something "useful" it could just aim to have the most fun
+    possible.
+
+
 # complete
 
   1. **laptop whiteboard**
