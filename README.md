@@ -329,6 +329,15 @@ fork and update and issue a pull request!
     instead of doing something "useful" it could just aim to have the most fun
     possible.
 
+    - see for example [dancing japanese robot](https://www.youtube.com/watch?v=3g-yrjh58ms)
+    - [keepon beatbots](http://beatbots.net/)
+
+    
+  1. **program to generate dance moves**
+
+    further to the above; could display them to the public and let them vote,
+    etc.
+
 
 # complete
 
