@@ -337,7 +337,7 @@ fork and update and issue a pull request!
     the tests automatically when the file changes.
 
  
-  1. *quadmule**
+  1. **quadmule**
 
     suppose you have something to take somewhere but don't want to carry it.
     you could use a qaudcopter to fly it along with you. for example, i want
