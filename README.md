@@ -351,6 +351,14 @@ fork and update and issue a pull request!
     comes into your office, and spends the day just playing music and yelling
     "test, test", and other programming related things.
     
+    
+  1. **may bean of interest**
+
+    a coffee shop where you get given a link to something you might find
+    interesting, when you buy the coffee. for example, you would ask for
+    a cappuccino and 'haskell', and then you'd get a link to a github
+    repo for some haskell project.
+    
 
 # complete
 
