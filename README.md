@@ -345,6 +345,12 @@ fork and update and issue a pull request!
     work, but you'd have to walk with it. the quadcopter could just follow you
     in the air.
 
+ 
+  1. **programming hype man**
+
+    comes into your office, and spends the day just playing music and yelling
+    "test, test", and other programming related things.
+    
 
 # complete
 
