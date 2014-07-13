@@ -336,6 +336,15 @@ fork and update and issue a pull request!
     finds the unit tests that a given file is tested by. can be used to run
     the tests automatically when the file changes.
 
+ 
+  1. *quadmule**
+
+    suppose you have something to take somewhere but don't want to carry it.
+    you could use a qaudcopter to fly it along with you. for example, i want
+    to run home but don't want to carry my bag. i guess a robot would also
+    work, but you'd have to walk with it. the quadcopter could just follow you
+    in the air.
+
 
 # complete
 
