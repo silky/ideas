@@ -330,6 +330,12 @@ fork and update and issue a pull request!
     further to the above; could display them to the public and let them vote,
     etc.
 
+  
+  1. **tested-by**
+
+    finds the unit tests that a given file is tested by. can be used to run
+    the tests automatically when the file changes.
+
 
 # complete
 
