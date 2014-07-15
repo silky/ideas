@@ -359,6 +359,15 @@ fork and update and issue a pull request!
     a cappuccino and 'haskell', and then you'd get a link to a github
     repo for some haskell project.
     
+    
+  1. **ipython interoperator**
+  
+    let any cell be in any backend language. (say haskell python or r). then
+    make it so that you can share variables between the languages; perhaps with
+    out[k] a-la mathematica.
+
+    can we learn from sage here? has it done this kind of thing for math packages?
+
 
 # complete
 
