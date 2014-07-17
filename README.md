@@ -367,6 +367,15 @@ fork and update and issue a pull request!
     out[k] a-la mathematica.
 
     can we learn from sage here? has it done this kind of thing for math packages?
+    
+  1. **ultimate code editing thing**
+  
+    ideas:
+    
+      - can mouse over a variable and see the last point in the function where it is 
+      used (by highlighting).
+      - can mouse over a function and see who calls it and with what, and who uses
+      the output of it
 
 
 # complete
