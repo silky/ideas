@@ -377,6 +377,10 @@ fork and update and issue a pull request!
       - can mouse over a function and see who calls it and with what, and who uses
       the output of it
 
+  1. **pull request exercises**
+  
+    similar to my old [test-driven gym](https://github.com/silky/tdg) maybe a service
+    like travis, or an extension, which comments on failed pull reqs with exercises.
 
 # complete
 
