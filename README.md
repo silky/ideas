@@ -382,6 +382,13 @@ fork and update and issue a pull request!
     similar to my old [test-driven gym](https://github.com/silky/tdg) maybe a service
     like travis, or an extension, which comments on failed pull reqs with exercises.
 
+
+  1. **categorise researchers by their scirate profiles**
+  
+    i.e. infer what fields they are interested in, who they are likely to work with,
+    other researchers they may be similar to, etc.
+
+
 # complete
 
   1. **laptop whiteboard**
