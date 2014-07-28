@@ -389,6 +389,12 @@ fork and update and issue a pull request!
     other researchers they may be similar to, etc.
 
 
+  1. **running scenery**
+  
+    with google glass or similar, have scenery that you can change, and run to, and
+    it would incorporate the real life obstacles it sees.
+
+
 # complete
 
   1. **laptop whiteboard**
