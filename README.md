@@ -398,7 +398,8 @@ fork and update and issue a pull request!
     
    have a script that you write before your day starts. say *only* these things for
    the entire day. see what happens; will you be able to get through the day following
-   only the script?
+   only the script? you can only use the phrases you wrote down, the number of times
+   you wrote them down. let's be generous and say that the order doesn't matter.
 
 # complete
 
