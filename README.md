@@ -394,6 +394,11 @@ fork and update and issue a pull request!
     with google glass or similar, have scenery that you can change, and run to, and
     it would incorporate the real life obstacles it sees.
 
+  1. **day-script**
+    
+   have a script that you write before your day starts. say *only* these things for
+   the entire day. see what happens; will you be able to get through the day following
+   only the script?
 
 # complete
 
